@@ -86,10 +86,3 @@
     width: 578px;
 }
 
-@media screen and (max-width: 768px){
-    .container-03{
-        display: block;
-        justify-content: space-around;
-        
-    }
-}
